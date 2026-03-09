@@ -8,18 +8,9 @@ The latest releases are available on our [GitHub Releases page](https://github.c
 
 ### Available Platforms
 
-- **Windows**: Available as `.msi` installer
+- **Windows**: Available as `.msi` installer and `.zip` portable
 - **macOS**: Not available yet
 - **Linux**: Not available yet
-
-## 🔧 Features
-
-- Advanced blade profile analysis
-- Interactive data visualization
-- Multi-format data import/export
-- Real-time data processing
-- Customizable settings
-- Professional reporting capabilities
 
 ## 📋 System Requirements
 
@@ -29,8 +20,8 @@ The latest releases are available on our [GitHub Releases page](https://github.c
 
 ## 🚀 Getting Started
 
-1. Download the latest release for Windows
-2. Install the application
+1. Download the latest release for Windows (installer `.msi` or portable `.zip`)
+2. Install the application or extract the portable archive
 3. Launch Blade Profiler
 4. Import your blade data files
 5. Start analyzing and visualizing your data
